@@ -13,7 +13,7 @@ public class Calculator {
         return a - b;
     }
 
-    public int subtract(int a, int b, int c){
-        return a - b - c;
+    public double subtract(int a, double b){
+        return a - b;
     }
 }
